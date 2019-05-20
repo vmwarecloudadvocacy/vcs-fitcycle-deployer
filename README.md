@@ -158,6 +158,8 @@ costcenter = "acmefitness-eng"
 
 `terraform init --backend-config="bucket=mybucket" --backend-config="key=path/to/my/key/some.tfstate" --backend-config="region=us-east-1"` 
 
+**The S3 bucket should be pre-created to be used for the backend.**
+
 **To use remote backend, Terraform will need List, Read and Put access to the bucket. Ensure that these permissions are added to the policy and assigned to the user that will be used.**
 
 Fix any errors that are reported before proceeding.
