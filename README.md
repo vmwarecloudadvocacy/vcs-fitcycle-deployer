@@ -1,6 +1,9 @@
 # vcs-fitcycle-deployer 
 ---------------------
 ---------------------
+
+For latest version -  refer to this parent repo - https://github.com/ishrivatsa/vcs-fitcycle-deployer
+
 Version: 1.3
 
 ## Getting Started 
